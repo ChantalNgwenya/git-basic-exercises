@@ -1,3 +1,1 @@
-Hell, World!
-Oops! Hello, World!
-Be kind.
+Hell, World! Oops! Hello, World! Be kind.
